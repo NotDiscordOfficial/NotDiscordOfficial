@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotDiscordOfficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 👀 I’m interested in software development and online marketing
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me? Contact me by finding my Discord via my site at https://chea.to
